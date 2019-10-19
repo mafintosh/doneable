@@ -1,6 +1,6 @@
 {
   "name": "doneable",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easily extend a stateful callback based operation into a thenable that can await'ed",
   "main": "index.js",
   "dependencies": {},
