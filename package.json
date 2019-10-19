@@ -1,0 +1,18 @@
+{
+  "name": "doneable",
+  "version": "0.0.0",
+  "description": "Easily extend a stateful callback based operation into a thenable that can await'ed",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/doneable.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/doneable/issues"
+  },
+  "homepage": "https://github.com/mafintosh/doneable"
+}
