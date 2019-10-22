@@ -11,7 +11,7 @@ npm install doneable
 ``` js
 const Doneable = require('doneable')
 
-class Operation extends Donable {
+class Operation extends Doneable {
   constructor (args, callback) {
     super(callback)
     this.destroyed = false
